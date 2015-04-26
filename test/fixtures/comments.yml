@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_name: MyString
+  content: MyText
+  start_size: 1
+  state: 1
+  park_id: 
+
+two:
+  user_name: MyString
+  content: MyText
+  start_size: 1
+  state: 1
+  park_id: 
